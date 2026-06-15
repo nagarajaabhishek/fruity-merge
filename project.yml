@@ -26,6 +26,8 @@ targets:
           - "**/*.md"
     resources:
       - path: FruityMerge/Resources
+        excludes:
+          - "**/readme-*.png"
     info:
       path: FruityMerge/Supporting/Info.plist
       properties:

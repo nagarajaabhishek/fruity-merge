@@ -4,6 +4,12 @@ A native iOS fruit drop-and-merge puzzle game built with Swift + SpriteKit. Drop
 
 **16 fruits** from tiny cherry to massive watermelon.
 
+<p align="center">
+  <img src="FruityMerge/Resources/readme-menu.png" alt="Fruity Merge menu screen" width="220" />
+  <img src="FruityMerge/Resources/readme-gameplay-start.png" alt="Fruity Merge early gameplay" width="220" />
+  <img src="FruityMerge/Resources/readme-gameplay.png" alt="Fruity Merge mid-game with merged fruits" width="220" />
+</p>
+
 ---
 
 ## Features
